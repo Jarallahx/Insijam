@@ -128,7 +128,13 @@ scripts/
 - **Calm failure.** Wrong answers hush, shake softly, and repeat. Nothing ever
   punishes.
 
-## Credits
 
-Crafted by **Jarallah Al-Jarallah** — Computer Science Graduate, Majmaah
-University. Built with Claude Code.
+## Play it
+
+🎮 **[Download on itch.io](https://jarallah.itch.io/insijam)** — free, Windows desktop app
+
+## About
+
+Designed and built by **Jarallah Al-Jarallah** and **Claude Code**.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jarallah-al-jarallah)
