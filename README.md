@@ -6,15 +6,17 @@ Insijam (Arabic for "harmony") is a meditative puzzle game: five chapters, each
 with its own sky, its own ambient sound, and its own mechanic — introduced
 gently, deepened level by level, and finally woven together in a three-movement
 finale.
-![لقطة 1](assets/screenshot-1.png)
 
-![لقطة 2](assets/screenshot-2.png)
+![لقطة 1](screenshot-1.png)
 
-![لقطة 3](assets/screenshot-3.png)
+![لقطة 2](screenshot-2.png)
 
-![لقطة 4](assets/screenshot-4.png)
+![لقطة 3](screenshot-3.png)
 
-![لقطة 5](assets/screenshot-5.png)
+![لقطة 4](screenshot-4.png)
+
+![لقطة 5](screenshot-5.png)
+
 - **I · Dawn** — rotate linked rings until broken threads bloom into a mandala
 - **II · Day** — tilt mirrors to carry beams through prisms, past stones, into crystals
   (some crystals must be fed by two beams at once)
@@ -135,7 +137,6 @@ scripts/
   quiet "let it pass" appears instead.
 - **Calm failure.** Wrong answers hush, shake softly, and repeat. Nothing ever
   punishes.
-
 
 ## Play it
 
