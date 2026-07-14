@@ -7,8 +7,6 @@ with its own sky, its own ambient sound, and its own mechanic — introduced
 gently, deepened level by level, and finally woven together in a three-movement
 finale.
 
-![لقطة 1](screenshot-1.png)
-
 ![لقطة 2](screenshot-2.png)
 
 ![لقطة 3](screenshot-3.png)
